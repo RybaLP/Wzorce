@@ -1,3 +1,4 @@
 # Wzorce Projektowe w NestJS
 
-Projekt demonstruje wzorce **Singleton**, **Adapter** i **Dekorator** w NestJS. Kod: `src/message-logger/`, `src/payment/`, `src/notifier/`. Uruchom: `npm install && npm run start`.
+Zrealizowane zadania na laboratoria z Inżynierii Oprogramowania
+wzorce **Singleton**, **Adapter** i **Dekorator** w NestJS. Kod: `src/message-logger/`, `src/payment/`, `src/notifier/`. Uruchom: `npm install && npm run start`.
